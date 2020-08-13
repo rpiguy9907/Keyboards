@@ -21,6 +21,8 @@ A link to KLE has been provided if you want to create your own plate files.
 
 Please note that this revision of **the PCB has about 8 extra mm at the top**, so if you are creating a case using Swillkb be sure to add an extra 8mm of height to the top.
 
+![PCB](s66_pcb.jpeg)
+
 # KLE
 http://www.keyboard-layout-editor.com/#/gists/c6da65aba82a19e511225238815665c1
 
