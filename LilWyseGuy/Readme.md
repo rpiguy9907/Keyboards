@@ -11,7 +11,7 @@ Thie keyboard requires the following components to build:
 * switches
 * stabilizers
 
-These boards have not been ported to QMK proper - Hex files and JSON files from Kbfirmwarebuilder are provided so that you can start using the keyboards right away.
+These boards have not been ported to QMK proper - Hex files and JSON files from https://kbfirmware.com are provided so that you can start using the keyboards right away.
 
 If you are unfamiliar with building Pro Micro based boards refer to the many build guides for Keebio products, etc. 
 
