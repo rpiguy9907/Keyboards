@@ -19,7 +19,7 @@ Rule of thumb - first Diodes, then Headers/socket for the Pro Micro, then instal
 
 A link to KLE has been provided if you want to create your own plate files.
 
-Please note that this revision of the PCB has about 8 extra mm at the top of the PCB so if you are creating a plate using Swillkb be sure to add an extra 8mm of height to the top.
+Please note that this revision of **the PCB has about 8 extra mm at the top**, so if you are creating a case using Swillkb be sure to add an extra 8mm of height to the top.
 
 # KLE
 http://www.keyboard-layout-editor.com/#/gists/c6da65aba82a19e511225238815665c1
