@@ -4,7 +4,12 @@ These files are for a prototype keyboard and offer no warranty or guarantee of f
 
 A zip file of the gerbers has been provided that you can upload to your PCB maker of choice (PCBway, JLCPCB, etc.) and order.
 
-All of these keyboards require a Pro Micro or Pro Micro Elite C controller, diodes, Pro Micro header or socket, switches and stabilizers to function.
+Thie keyboard requires the following components to build:
+* Pro Micro or Pro Micro Elite C controller
+* 1N4148 diodes
+* Pro Micro header or socket
+* switches
+* stabilizers
 
 These boards have not been ported to QMK proper - Hex files and JSON files from Kbfirmwarebuilder are provided so that you can start using the keyboards right away.
 
