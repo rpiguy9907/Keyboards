@@ -19,6 +19,8 @@ Rule of thumb - first Diodes, then Headers/socket for the Pro Micro, then instal
 
 A link to KLE has been provided if you want to create your own plate files.
 
+![PCB](lwg_pcb.jpeg)
+
 # KLE
 http://www.keyboard-layout-editor.com/#/gists/0c8a0f106a7f56a417a3ea27870c8133
 
