@@ -1,4 +1,4 @@
-#Southpaw66
+# Southpaw66
 
 These files are for prototype keyboards and offer no warranty or guarantee of function.
 
@@ -8,6 +8,7 @@ These boards have not been ported to QMK proper - Hex files and JSON files from 
 
 Links to KLE have been provided if you want to create your own plate files.
 
-#KLE
+# KLE
 http://www.keyboard-layout-editor.com/#/gists/c6da65aba82a19e511225238815665c1
 
+![Layout](Southpaw66_layout.png)
