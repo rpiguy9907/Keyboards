@@ -15,11 +15,11 @@ These boards have not been ported to QMK proper - Hex files and JSON files from 
 
 If you are unfamiliar with building Pro Micro based boards refer to the many build guides for Keebio products, etc. 
 
-Rule of thumb - first Diodes, then Headers/socket for the Pro Micro, then install stabilzers if using PCB mount, then switches, and **the Pro Micro last.
+Rule of thumb - first Diodes, then Headers/socket for the Pro Micro, then install stabilzers if using PCB mount, then switches, and **the Pro Micro last.**
 
 A link to KLE has been provided if you want to create your own plate files.
 
-Please note that this revision of **the PCB has about 8 extra mm at the top**, so if you are creating a case using Swillkb be sure to add an extra 8mm of height to the top.
+Please note that this revision of **the PCB has some extra space at the top a little extra space on the bottom that could have been trimmed**, so if you are creating a case using Swillkb be sure to account for this.
 
 ![PCB](s66_pcb.jpeg)
 
