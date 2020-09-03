@@ -22,3 +22,6 @@ Rule of thumb - first Diodes, then Headers/socket for the Pro Micro, then instal
 A link to KLE has been provided if you want to create your own plate files.
 
 http://www.keyboard-layout-editor.com/#/gists/81260bdcfa13099d147027917f05b3a7
+
+![PCB](OrthoIIC_Alps.jpeg)
+![PCB](orthoIIC_MX.jpeg)
