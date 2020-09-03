@@ -1,5 +1,7 @@
 # Lil Wyse Guy
 
+This keyboard was designed specifically to use Wyse keycaps (specifically their layout with an 8u spacebar). It is MX compatible so you can substitute a 7u spacebar, but will need to create a plate with cutouts for 7U plate mount stabilzers.
+
 These files are for a prototype keyboard and offer no warranty or guarantee of function.
 
 A zip file of the gerbers has been provided that you can upload to your PCB maker of choice (PCBway, JLCPCB, etc.) and order.
