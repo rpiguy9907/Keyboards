@@ -1,4 +1,4 @@
-# Keyboard Functional Prototypes
+# Fun Board Prototypes
 
 I love odd ducks. Have fun with these odd duck keyboard PCBs, designed for fun not for profit.
 
