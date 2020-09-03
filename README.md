@@ -9,6 +9,6 @@ All of these keyboards require a Pro Micro or Pro Micro Elite C controller, diod
 These boards have not been ported to QMK proper - Hex files and JSON files from Kbfirmwarebuilder are provided so that you can start using the keyboards right away.
 
 ![PCB](LilWyseGuy/lwg_pcb.jpeg)
-![PCB](Southpaw66/s66_pcb.jpeg)
+![PCB](Southpaw66/IMG_0970.jpeg)
 ![PCB](OrthoIIC/OrthoIIC_Alps.jpeg)
 ![PCB](OrthoIIC/orthoIIC_MX.jpeg)
