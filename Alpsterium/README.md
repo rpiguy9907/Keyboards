@@ -1,4 +1,4 @@
-This folder contains the GERBERS files and plate files that you can use to create a Mysterium keyboard, but using Apple's AEK layout and keycaps.
+This folder contains the gerbers zip file for the PCB as well as a plate file that you can use to create a Mysterium keyboard, but using Apple's AEK layout and keycaps.
 
 No warrany is applicable or implied, this project was merely a proof of concept.
 
