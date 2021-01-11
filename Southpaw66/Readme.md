@@ -1,5 +1,4 @@
 # Southpaw66
-
 These files are for a prototype keyboard and offer no warranty or guarantee of function.
 
 A zip file of the gerbers has been provided that you can upload to your PCB maker of choice (PCBway, JLCPCB, etc.) and order.
@@ -11,7 +10,7 @@ Thie keyboard requires the following components to build:
 * switches
 * stabilizers
 
-These boards have not been ported to QMK proper - Hex files and JSON files from https://kbfirmware.com are provided so that you can start using the keyboards right away.
+This board has been ported to QMK can be found in rpiguy9907/Southpaw66.
 
 If you are unfamiliar with building Pro Micro based boards refer to the many build guides for Keebio products, etc. 
 
