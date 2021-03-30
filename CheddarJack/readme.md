@@ -23,9 +23,7 @@ If you are unfamiliar with building Pro Micro based boards refer to the many bui
 
 Rule of thumb - first Diodes, then Headers/socket for the Pro Micro, then install stabilzers if using PCB mount, then switches, and **the Pro Micro last.
 
-A link to KLE has been provided if you want to create your own plate files.
 
 ![PCB](cheddar.jpeg)
 
-# KLE
-http://www.keyboard-layout-editor.com/#/gists/cb5413eccba76cb8e9623352675857e8
+
