@@ -4,9 +4,9 @@ This keyboard was designed specifically to expand the Little Foot keyboard to 11
 
 These files are for a prototype keyboard and offer no warranty or guarantee of function.
 
-# I haven't had the time to build firmware for this one yet, so only the Gerber files are available at this time
+I haven't had the time to build firmware for this one yet, so only the Gerber files are available at this time
 
-# Also note that the 6.5u spacebar configuration requires plate mount stabilizers (PCB mounts were not included because teh 6.5u spacebar is mostly for Alps/AEK support)
+Also note that the 6.5u spacebar configuration requires plate mount stabilizers (PCB mounts were not included because teh 6.5u spacebar is mostly for Alps/AEK support)
 
 A zip file of the gerbers has been provided that you can upload to your PCB maker of choice (PCBway, JLCPCB, etc.) and order.
 
