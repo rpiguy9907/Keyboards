@@ -2,7 +2,10 @@
 
 40% that fits in a 60% tray mount case! 
 
-![PCB](IMG_4237.jpeg)
+![keyboard](IMG_4237.jpeg)
+
+Supported layouts:
+![layouts](layouts.png)
 
 Note that only a few mounting holes are available in the PCB due to key placement. In fact, the newer tray cases with fewer mount points are a not a good choice for thiscase.
 
