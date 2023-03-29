@@ -1,13 +1,13 @@
 # Rosalina
 
-40% that fits in a 60% tray mount case! 
+40% with Num Pad that fits in a 60% tray mount case! 
 
 ![keyboard](IMG_4237.jpeg)
 
 Supported layouts:
 ![layouts](layouts.png)
 
-Note that only a few mounting holes are available in the PCB due to key placement. In fact, the newer tray cases with fewer mount points are a not a good choice for thiscase.
+Note that only a few mounting holes are available in the PCB due to key placement. In fact, the newer tray cases with fewer mount points are a not a good choice for this PCB.
 
 PCB and Firmware files are not guaranteed to work, although I have built and tested them.
 
