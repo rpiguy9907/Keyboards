@@ -2,6 +2,8 @@
 
 40% that fits in a 60% tray mount case! 
 
+![PCB](IMG_4237.jpeg)
+
 Note that only a few mounting holes are available in the PCB due to key placement. In fact, the newer tray cases with fewer mount points are a not a good choice for thiscase.
 
 PCB and Firmware files are not guaranteed to work, although I have built and tested them.
