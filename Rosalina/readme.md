@@ -2,6 +2,8 @@
 
 40% with Num Pad that fits in a 60% tray mount case! 
 
+Forked from: https://github.com/peej/rosaline-keyboard
+
 ![keyboard](IMG_4237.jpeg)
 
 Supported layouts:
